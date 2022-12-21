@@ -7,5 +7,5 @@
 <a href="https://rec8730.tistory.com/129">💡 교차 출처 리소스 공유(CORS)</a>
 
 <h2> 📚 Javascript</h2>
-<a href="https://rec8730.tistory.com/128">💡 자바스크립트 replace()</a>
+<a href="https://rec8730.tistory.com/128">💡 자바스크립트 replace()</a></br>
 <a href="https://rec8730.tistory.com/130">💡 callback function</a>

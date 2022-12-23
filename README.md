@@ -8,4 +8,5 @@
 
 <h2> 📚 Javascript</h2>
 <a href="https://rec8730.tistory.com/128">💡 자바스크립트 replace()</a></br>
-<a href="https://rec8730.tistory.com/130">💡 callback function</a>
+<a href="https://rec8730.tistory.com/130">💡 callback function</a></br>
+<a href="https://rec8730.tistory.com/131">💡 this</a></br>

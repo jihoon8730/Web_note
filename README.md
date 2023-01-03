@@ -10,3 +10,4 @@
 <a href="https://rec8730.tistory.com/128">💡 자바스크립트 replace()</a></br>
 <a href="https://rec8730.tistory.com/130">💡 callback function</a></br>
 <a href="https://rec8730.tistory.com/131">💡 this</a></br>
+<a href="https://rec8730.tistory.com/142">💡 AJAX의 간단한 사용법</a></br>
